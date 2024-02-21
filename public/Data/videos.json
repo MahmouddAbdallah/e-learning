@@ -1,0 +1,134 @@
+[
+    {
+        "id":"1",
+        "image":"../public/images/recommended_1.png",
+        "title":"Vue js scratch course",
+        "author":"Kitnai Studio",
+        "description":"More than 8yr Ex perience as Illustrator. Learn how to becoming professional Illustrator Now...",
+        "price":"78.00",
+        "oldPrice":"100.90",
+        "section":"recommended",
+        "rating":4
+    },
+    {
+        "id":"2",
+        "image":"../public/images/recommended_2.png",
+        "title":"Ui design for beginners",
+        "author":"Kitnai Studio",
+        "description":"Learn how to make web application with Vue.js Framework.",
+        "price":"24.92",
+        "oldPrice":"32.90",
+        "section":"recommended",
+        "rating":4
+    },
+    {
+        "id":"3",
+        "image":"../public/images/recommended_3.png",
+        "title":"Mobile dev react native",
+        "author":"Kitnai Studio",
+        "description":"More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+        "price":"30.92",
+        "oldPrice":"40.00",
+        "section":"recommended",
+        "rating":5
+    },
+    {
+        "id":"4",
+        "image":"../public/images/recommended_4.png",
+        "title":"Website dev zero to hero",
+        "author":"Kitnai Studio",
+        "description":"More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+        "price":"50.90",
+        "oldPrice":"70.80",
+        "section":"recommended",
+        "rating":5
+    },
+    {
+        "id":"5",
+        "image":"../public/images/trend_5.png",
+        "title":"Adobe Illustrator scretch course",
+        "author":"Kitnai Studio",
+        "description":"More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+        "price":"20.90",
+        "oldPrice":"50.00",
+        "section":"trend",
+        "rating":4
+    },
+    {
+        "id":"6",
+        "image":"../public/images/trend_4.png",
+        "title":"Bootcamp  Vue.js Web Framework",
+        "author":"Kitnai Studio",
+        "description":"Learn how to make web application with Vue.js Framework.",
+        "price":"20.90",
+        "oldPrice":"50.00",
+        "section":"trend",
+        "rating":4
+    },
+    {
+        "id":"7",
+        "image":"../public/images/trend_2.png",
+        "title":"Design Fundamentals",
+        "author":"Kitnai Studio",
+        "description":"More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+        "price":"24.92",
+        "oldPrice":"40.00",
+        "section":"trend",
+        "rating":5
+    },
+    {
+        "id":"8",
+        "image":"../public/images/trend_3.png",
+        "title":"Ionic - build Ios , Android & Web..",
+        "author":"Kitnai Studio",
+        "description":"More than 8yr Experience as Web. Learn how to becoming professional Andriod Now...",
+        "price":"24.92",
+        "oldPrice":"40.00",
+        "section":"trend",
+        "rating":4
+    },
+    {
+        "id":"9",
+        "image":"../public/images/trend_6.png",
+        "title":"Adobe Illustrator Scratch Course",
+        "author":"Kitnai Studio",
+        "description":"More than 8yr Experience as Web. Learn how to becoming professional Andriod Now...",
+        "price":"30.92",
+        "oldPrice":"42.00",
+        "section":"trend",
+        "rating":5
+    },
+    {
+        "id":"10",
+        "image":"../public/images/trend_7.png",
+        "title":"Bootcamp ReactJs Scratch Course",
+        "author":"Kitnai Studio",
+        "description":"Learn how to make web application with Vue.js Framework.",
+        "price":"50.92",
+        "oldPrice":"70.00",
+        "section":"trend",
+        "rating":5
+    },
+    {
+        "id":"11",
+        "image":"../public/images/trend_8.png",
+        "title":"Programming fandmentals",
+        "author":"Kitnai Studio",
+        "description":"Learn how to make web application with Vue.js Framework.",
+        "price":"40.92",
+        "oldPrice":"60.00",
+        "section":"trend",
+        "rating":4
+    },
+    {
+        "id":"12",
+        "image":"../public/images/trend_1.png",
+        "title":"Engineering design",
+        "author":"Kitnai Studio",
+        "description":"Learn how to make web application with Vue.js Framework.",
+        "price":"80.92",
+        "oldPrice":"100.00",
+        "section":"trend",
+        "rating":5
+    }
+]
